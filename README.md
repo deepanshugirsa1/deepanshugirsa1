@@ -1,6 +1,6 @@
 # Deepanshu Girsa
 
-**Data Engineer @ Spinwheel** · Oakland, CA · Building production data systems for consumer-credit infrastructure
+**Data Engineer @ Spinwheel** · San Francisco, CA · Building production data systems for consumer-credit infrastructure
 
 [LinkedIn](https://linkedin.com/in/deepanshu-girsa) · [Email](mailto:girsadeepanshu@gmail.com)
 
